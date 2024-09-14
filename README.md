@@ -3,7 +3,16 @@
 
 ## Desenvolvimento:
 
-Agora é a V2 do projeto, houve a implementação de funções, que confesso, é o meu calcanhar de aquiles por enquanto.
+A partir do desafio proposto [aqui](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/Ef-dMEJYq9BPotZQso7LUCwBJd7gDqCC2SYlUYx0ayrGNQ?rtime=yDvTgzLN3Eg), tentei imaginar como eu faria sem procurar qualquer outra solução na internet. Tive alguns problemas como a impressão das variáveis, mas logo resolvi. Havia esquecido o *"f"* na bendita função built-in print. 
+
+Segue sintaxe **CORRETA:** (auto lembrete)
+~~~python 
+    print(f"Seu saldo é: R${saldo:.2f}\n")
+~~~
+
+## V2
+##### 14/09/2024
+        Agora é a V2 do projeto, houve a implementação de funções, que confesso, é o meu calcanhar de aquiles por enquanto.
 As funções simplificaram o código, deixando mais fácil de compreender o código em si. É uma pitada de complexidade e profissionalismo 🤭
 
 Em breve mais atualizações...
